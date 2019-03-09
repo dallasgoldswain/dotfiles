@@ -16,3 +16,5 @@ log/*.log
 rerun.txt
 tags
 tmp/**/*
+.ruby-version
+update-master-branch.sh
